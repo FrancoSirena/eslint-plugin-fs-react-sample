@@ -1,0 +1,32 @@
+{
+  "name": "eslint-plugin-fs-react-sample",
+  "version": "0.0.1-rc.0",
+  "description": "Extended version of React Eslint Rules - Sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancoSirena/eslint-plugin-fs-react-sample.git"
+  },
+  "keywords": [
+    "eslint",
+    "react"
+  ],
+  "author": "Franco Sirena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancoSirena/eslint-plugin-fs-react-sample/issues"
+  },
+  "homepage": "https://github.com/FrancoSirena/eslint-plugin-fs-react-sample#readme",
+  "devDependencies": {
+    "eslint": "7.0.0"
+  },
+  "peerDependencies": {
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  }
+}
